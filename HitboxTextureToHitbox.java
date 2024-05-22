@@ -13,7 +13,7 @@ public class HitboxTextureToHitbox {
         /** Values to edit **/
         int defaultX = 48, defaultY = 48;
         int width = 128, height = 128, animationID = 0;
-        String file = "C:\\Users\\jitji\\Desktop\\assets\\RhythmAreahb.png";
+        String file = "C:\\Users\\User\\Desktop\\assets\\Hitbox.png";
 
         int i = 0;
         for (var frame : getFrames(width, height, animationID,
